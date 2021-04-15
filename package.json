@@ -4,5 +4,6 @@
   "description": "Option implementation for JS",
   "main": "option.js",
   "author": "yeoul",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Jungwoo-Son/js-option"
 }
